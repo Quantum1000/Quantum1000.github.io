@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+author: Shenna Summerfelt
 title: Shenna Summerfelt's Portfolio
 email: quantum1002@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -27,6 +28,7 @@ domain: shennasummerfelt.github.io # this wasn't default but github seems to thi
 url: https://shennasummerfelt.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: QuantumShenna
 github_username:  Quantum1000
+linkedin_username: shenna-summerfelt-080380206
 
 # Build settings
 theme: minima
