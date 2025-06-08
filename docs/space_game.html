@@ -1,0 +1,16 @@
+---
+permalink: /space_game/play/
+---
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>My Bevy Game</title>
+</head>
+<body>
+    <script type="module">
+        import init from './space_game.js'; // Make sure this matches your generated JS file
+        init().catch(e => console.error("Error initializing Bevy game:", e));
+    </script>
+</body>
+</html>
