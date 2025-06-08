@@ -1,0 +1,1 @@
+/home/quantum1000/Documents/Programs/space_game/target/wasm32-unknown-unknown/web-release/space_game.wasm: /home/quantum1000/Documents/Programs/space_game/src/main.rs /home/quantum1000/Documents/Programs/space_game/src/player.rs /home/quantum1000/Documents/Programs/space_game/src/ui.rs /home/quantum1000/Documents/Programs/space_game/src/world.rs
