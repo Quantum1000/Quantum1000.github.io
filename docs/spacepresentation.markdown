@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /ik/
+permalink: /spacepresentation/
 ---
 [link](spacepresentation/redirect)
 I gave this presentation to ~60 people in VR. It was intended to demonstrate that space industry is possible, and to allow people to imagine a future in space. When people consider space right now, there's a focus on exploration and colonizing mars, but very few people can concieve of ways that space could suplement  Earth based industry in the near term (~10 years). The moon is close by, has everything required for basic industry, and offers good access to useful earth orbits. With a bit of out of the box thinking, nearly self replicating industry could be designed which could quickly turn the moon into an industrial hub capable of dramatically reducing the cost of orbital infrastructure. If you want to know more about these ideas, a youtube channel called [Anthrofuturism](https://www.youtube.com/@Anthrofuturism) has recently done a more thorough and well edited overview of these concepts; I recommend starting with https://youtu.be/WZN2xXMb28g.
